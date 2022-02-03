@@ -148,11 +148,17 @@ hr {
 
   .card{
     margin: 0 auto;
-    width: 22rem;
+    width: 21.5rem;
   }
 
   .container-fluid{
     padding: 5% 5% 2%;
+  }
+
+  @media(max-width: 425px){
+    body{
+      padding: 6% 5%;
+    }
   }
 
 
