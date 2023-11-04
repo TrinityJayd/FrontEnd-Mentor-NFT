@@ -36,7 +36,6 @@ Solution URL: https://trinityjayd.github.io/FrontEnd-Mentor-NFT/
 
 - Website - [Trinity Tiratram](https://trinityjayd.github.io/)
 - Frontend Mentor - [@TrinityJayd](https://www.frontendmentor.io/profile/TrinityJayd)
-- Twitter - [@trinity_jayd](https://twitter.com/trinity_jayd)
 
 
 
